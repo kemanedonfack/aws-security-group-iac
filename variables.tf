@@ -11,6 +11,3 @@ variable "vpc_id" {
   description = "VPC id"
 }
 
-variable "description" {
-  description = "VPC id"
-}
